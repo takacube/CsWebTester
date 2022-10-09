@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5LSwTCq7Xdoj1kenTp6OEkLcUVSPasx7b0VLB7dW1KBNBJxyYpjJ5iwGtUEE1FhwcLjdi8+8EgcAOEkyhs1PQ==",
+  "dgSpecHash": "cLekM7B+ETFn4+mZOHqWjUMEtpkXlZzSS2CEYuN3DLawuzxZh2qXRHHXlV/QVDj62dRIo1H+t2jYTdSlJJk96w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\ApiDeveloper.csproj",
+  "projectFilePath": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kuras\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kuras\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -317,9 +317,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\ApiDeveloper.csproj",
-      "projectName": "ApiDeveloper",
-      "projectPath": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\ApiDeveloper.csproj",
+      "projectUniqueName": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\Api.csproj",
+      "projectName": "Api",
+      "projectPath": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\Api.csproj",
       "packagesPath": "C:\\Users\\kuras\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kuras\\Development\\ApiDeveloper\\ApiDeveloper\\obj\\",
       "projectStyle": "PackageReference",
