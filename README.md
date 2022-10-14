@@ -2,7 +2,12 @@
 
 
 - [ ] React on ASP.NET Core
+- [ ] Cors settings
 
-- [×] Cors settings
+
+
+$ You don't have to have frontend application in the same solution of backend.
+
+development of React should be implemented with vscode not visual studio.
 
 
