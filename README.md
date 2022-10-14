@@ -3,6 +3,6 @@
 
 - [ ] React on ASP.NET Core
 
-
+- [×] Cors settings
 
 

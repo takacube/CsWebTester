@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cd5e0fcb-5711-4363-8df4-b739400a37e1/AppServices/subscriptions/cd5e0fcb-5711-4363-8df4-b739400a37e1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/TakanaoTestWeatherForcastFront",
+    "appService.deploySubpath": "frontend/build"
+}

@@ -1,0 +1,11 @@
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Api.exe
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Api.dll
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Api.deps.json
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Api.runtimeconfig.json
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Api.pdb
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kuras\Development\ApiDeveloper\ApiDeveloper\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
